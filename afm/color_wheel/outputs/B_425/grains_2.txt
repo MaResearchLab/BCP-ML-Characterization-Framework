@@ -1,0 +1,2 @@
+Group 1: 3512 pixels
+Group 15: 288 pixels

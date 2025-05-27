@@ -1,0 +1,25 @@
+Group 0: 5 elements, 424.07 total area
+Group 1: 1 elements, 84.05 total area
+Group 2: 4 elements, 332.31 total area
+Group 3: 3 elements, 214.92 total area
+Group 4: 4 elements, 311.10 total area
+Group 5: 1 elements, 83.59 total area
+Group 6: 14 elements, 1141.19 total area
+Group 7: 1 elements, 74.98 total area
+Group 8: 7 elements, 610.18 total area
+Group 9: 23 elements, 1801.14 total area
+Group 10: 3 elements, 263.77 total area
+Group 11: 1 elements, 81.54 total area
+Group 12: 1 elements, 85.97 total area
+Group 13: 1 elements, 92.83 total area
+Group 14: 41 elements, 3347.63 total area
+Group 15: 11 elements, 823.13 total area
+Group 16: 14 elements, 1113.05 total area
+Group 17: 1 elements, 70.29 total area
+Group 18: 3 elements, 260.88 total area
+Group 19: 1 elements, 82.13 total area
+Group 20: 1 elements, 78.67 total area
+Group 21: 1 elements, 90.99 total area
+Group 22: 1 elements, 80.53 total area
+Group 23: 1 elements, 76.41 total area
+Average area: 484.39 total area

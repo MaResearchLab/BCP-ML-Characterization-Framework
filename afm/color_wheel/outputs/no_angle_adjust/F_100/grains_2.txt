@@ -1,0 +1,5 @@
+Group 1: 1125 pixels
+Group 8: 216 pixels
+Group 16: 2175 pixels
+Group 28: 204 pixels
+Group 31: 964 pixels

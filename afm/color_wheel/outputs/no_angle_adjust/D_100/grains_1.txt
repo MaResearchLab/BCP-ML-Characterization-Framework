@@ -1,0 +1,3 @@
+Group 2: 1064 pixels
+Group 4: 1512 pixels
+Group 8: 7137 pixels

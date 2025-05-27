@@ -1,0 +1,3 @@
+Group 3: 466 pixels
+Group 5: 72 pixels
+Group 12: 50 pixels

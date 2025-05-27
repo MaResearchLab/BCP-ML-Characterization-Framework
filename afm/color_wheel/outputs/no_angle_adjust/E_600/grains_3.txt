@@ -1,0 +1,3 @@
+Group 16: 250 pixels
+Group 19: 297 pixels
+Group 25: 4004 pixels

@@ -1,0 +1,2 @@
+Group 2: 1111 pixels
+Group 11: 1010 pixels

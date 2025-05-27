@@ -1,0 +1,6 @@
+Group 4: 176 pixels
+Group 5: 175 pixels
+Group 18: 136 pixels
+Group 20: 105 pixels
+Group 24: 117 pixels
+Group 25: 1585 pixels

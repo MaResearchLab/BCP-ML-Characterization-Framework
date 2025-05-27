@@ -1,0 +1,2 @@
+Group 1: 46 pixels
+Group 6: 59 pixels

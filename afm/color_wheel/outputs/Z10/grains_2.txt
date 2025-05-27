@@ -1,0 +1,6 @@
+Group 11: 84 pixels
+Group 19: 62 pixels
+Group 20: 71 pixels
+Group 21: 882 pixels
+Group 22: 68 pixels
+Group 24: 113 pixels
