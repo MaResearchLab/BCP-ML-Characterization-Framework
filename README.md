@@ -17,4 +17,4 @@ The provided code can be used with any python notebook, Anaconda is recommended 
 2. The raw data is also included in each subfolder, this should allow the user to test that the code is working as intended on data with established results.
 
 # Contact us
-If you have any questions or feedback, please let us know by emailing Bradley.Lamb AT usm.edu. 
+If you have any questions or feedback, please let us know by emailing Bradley.Lamb@usm.edu. 
