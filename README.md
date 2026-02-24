@@ -5,7 +5,7 @@ __If you use this code, please cite our paper from the reference below:__
 
 1. Machine learning framework for characterizing GISAXS and AFM data from BCP thin films:  
 
-   *Link to paper*
+   *[Link to paper](https://pubs.acs.org/doi/full/10.1021/acs.macromol.5c03272)*
 
 
 # Installation
